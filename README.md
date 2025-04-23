@@ -3,12 +3,12 @@
 ### Data Structures
 - [x] Linked List
 - [x] Stack (LiFo)
-- [] Queue (FiFo)
-- [] Array
-- [] Heap
-- [] Hashing
-- [] Tree
-- [] Graph
+- [ ] Queue (FiFo)
+- [ ] Array
+- [ ] Heap
+- [ ] Hashing
+- [ ] Tree
+- [ ] Graph
 
 
 ### Algorithms
